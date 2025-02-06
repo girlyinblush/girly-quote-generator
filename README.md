@@ -9,14 +9,14 @@
 
 ## 🌸 How to Use  
 1. Clone this repository:  
-   git clone https://github.com/girlyinblush/girly-quote-generator.git
+   git clone https://github.com/girlyinblush/girly-quote-generator.git  
    cd girly-quote-generator
 
-2. Run the script
-    In windows
-        python girly_quote_generator.py
-    In Mac or Linux:
-        python3 girly_quote_generator.py
+2. Run the script  
+    In windows:  
+        python girly-quote-generator.py  
+    In Mac or Linux:  
+        python3 girly-quote-generator.py
 
 3. Enjoy a fabulous girly quote 
  
